@@ -1,0 +1,20 @@
+{
+  "name": "interprocess-push-stream",
+  "version": "1.0.0",
+  "description": "Streaming push interface for use between processes via Redis",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/interprocess-push-stream.git"
+  },
+  "author": "Eirik Vullum <evullum@gmail.com> (http://www.vullum.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "asap": "^2.0.0",
+    "debug": "^2.1.1",
+    "redis-eventemitter": "^1.0.1"
+  }
+}
