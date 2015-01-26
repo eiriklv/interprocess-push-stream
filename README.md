@@ -1,4 +1,4 @@
-interprocess-pull-stream
+interprocess-push-stream
 ========================
 
 #### Introduction:
